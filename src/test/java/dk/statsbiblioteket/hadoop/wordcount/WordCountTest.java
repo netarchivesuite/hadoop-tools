@@ -1,5 +1,6 @@
-package wpmcn.hadoop;
+package dk.statsbiblioteket.hadoop.wordcount;
 
+import dk.statsbiblioteket.hadoop.wordcount.WordCount;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mrunit.mapreduce.MapDriver;

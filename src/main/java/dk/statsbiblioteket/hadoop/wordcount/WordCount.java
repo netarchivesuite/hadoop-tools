@@ -1,4 +1,4 @@
-package wpmcn.hadoop;
+package dk.statsbiblioteket.hadoop.wordcount;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
