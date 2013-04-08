@@ -7,7 +7,7 @@
   <version>1.0</version>
   <packaging>jar</packaging>
 
-  <name>wpmcn.hadoop</name>
+  <name>dk.statsbiblioteket.hadoop.wordcount</name>
   <url>http://maven.apache.org</url>
 
   <properties>
