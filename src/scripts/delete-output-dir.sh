@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf output1
+rm -rf output
