@@ -1,0 +1,6 @@
+Dette er en test på noget tekst der indeholder internationale tegn.
+Danske: øæå ØÆÅ
+Japanske: 私は、森林からの学生です。
+Koreansk: 한국 음식중에 김치가 제일 맛있어요.
+Spansk: "¿Que hay en el bolso mi amiga?"
+
